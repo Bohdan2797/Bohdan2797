@@ -6,7 +6,6 @@ Front End Developer 🧑‍💻
 
 A skilled front-end developer with over 4 years of experience in designing and customizing websites across multiple platforms. Quick to learn and adapt, consistently finding effective solutions to complex problems. Highly motivated, responsible, and passionate about the latest trends in frontend development and technology. An enthusiastic team player, always eager to contribute fresh ideas and drive innovation within the team.
 
-* 🌍  I'm based in Poland
 * ✉️  You can contact me at [faragorn4321@gmail.com](mailto:faragorn4321@gmail.com)
 * 🚀  I'm currently working on [Rockstar](http://rockstars.partners)
 * 🧠  I'm learning Learning back-end 🖧
